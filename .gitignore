@@ -1,0 +1,6 @@
+# VirtualEnv
+kata-python/
+
+# Python files
+*.pyc
+*.pyo
